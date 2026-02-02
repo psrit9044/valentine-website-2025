@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Miss Simran Shrestha (aka Maya, aka sani don, aka chunu munu). First of all, happy anniversary!",
+    valentineName: "Miss Simran Shrestha (aka Maya, aka sani don, aka chunu munu)",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
